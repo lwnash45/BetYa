@@ -1,0 +1,30 @@
+{
+  "name": "betya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "9.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwnash45/BetYa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwnash45/BetYa/issues"
+  },
+  "homepage": "https://github.com/lwnash45/BetYa#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0"
+  }
+}
